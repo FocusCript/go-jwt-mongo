@@ -19,7 +19,7 @@ GET http://localhost:8000/refresh
 
 #### Install
 ```sh
-$ git clone https://github.com/...
+$ git clone https://github.com/FocusCript/go-jwt-mongo
 $ cd golang-mongodb-jwt
 $ go get
 ```
